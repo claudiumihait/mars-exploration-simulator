@@ -121,7 +121,7 @@ Following technologies were used in developing this app:
 2. **Maven:** The build automation tool and dependency management system used to streamline the project's build process and handle external libraries and dependencies.
 4. **PostgreSQL:** The open-source relational database management system used to store and manage data related to rovers, command centers, and construction sites during the simulation.
 5. **IntelliJ IDEA:** Integrated Development Environments (IDEs) that provide a comprehensive set of tools and features for Java development, including code editing, debugging, and project management.
-
+6. **JFrame/JPanel:** The Java Swing framework used to create the graphical user interface (GUI) for the simulation visualization. JFrame provides the main application window, while JPanel is used to create custom components and handle the rendering of the simulation elements.
 
 ### License
 
